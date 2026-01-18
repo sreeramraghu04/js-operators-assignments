@@ -55,16 +55,16 @@
 
 # JavaScript Simple Quiz on Operators
 
-1. The value of numb1= ?
+1. The value of num1=?
 
    ``` js
-   let numb1 = 12;
-   numb1 /= 3;
+   let num1 = 12;
+   num1 /= 3;
    ```
 
    - Answer: 4
 
-2. What does 'a' equal ?
+2. What does 'a' equal?
 
    ``` js
    let a = 17 % 4;
@@ -72,7 +72,7 @@
 
    - Answer: 1
 
-3. What does x++ equal ?
+3. What does x++ equal?
 
    ``` js
    let x=3;
