@@ -62,7 +62,7 @@
    numb1 /= 3;
    ```
 
-- Answer: 4
+   - Answer: 4
 
 2. What does 'a' equal ?
 
@@ -70,7 +70,7 @@
    let a = 17 % 4;
    ```
 
-- Answer: 1
+   - Answer: 1
 
 3. What does x++ equal ?
 
@@ -79,7 +79,7 @@
    x++;
    ```
 
-- Answer: 4
+   - Answer: 4
 
 4. Create a Fahrenheit to Celsius converter
 
@@ -87,7 +87,7 @@
    c=((f-32)*5)/9;
    ```
 
-- Answer:
+   - Answer:
   
     ``` js
     let f = prompt('Enter the temperature in Fahrenheit: ');
@@ -101,7 +101,7 @@
    discountpercentage=((mrp-sellingprice)*100)/mrp;
    ```
 
-- Answer:
+   - Answer:
   
     ``` js
     let mrp = prompt('Enter the MRP of the product: ');
@@ -116,7 +116,7 @@
    bmi=weight(kg)/(height(m)*height(m));
    ```
 
-- Answer:
+   - Answer:
   
     ``` js
     let weight = prompt('Enter your weight in kilograms: ');
