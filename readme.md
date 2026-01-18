@@ -53,7 +53,7 @@
 
    ***
 
-# JavaScript Simple Quiz on Operators
+# Simple Quiz from JavaScript Operators
 
 1. The value of num1=?
 
@@ -81,7 +81,7 @@
 
    - Answer: 4
 
-4. Create a Fahrenheit to Celsius converter
+4. Create a Fahrenheit to Celsius converter?
 
    ``` js    
    c=((f-32)*5)/9;
@@ -95,7 +95,7 @@
     console.log(`The temperature in Celsius is: ${c}`);
     ```
 
-5. Create a discount percentage calculator
+5. Create a discount percentage calculator?
 
    ``` js
    discountpercentage=((mrp-sellingprice)*100)/mrp;
@@ -110,7 +110,7 @@
     console.log(`The discount percentage is: ${discountpercentage}`);
     ```
 
-6. Create a BMI calculator
+6. Create a BMI calculator?
 
    ``` js
    bmi=weight(kg)/(height(m)*height(m));
